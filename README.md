@@ -1,4 +1,4 @@
-# stone-paper-sicssor-game
+# stone-paper-scissor-game
 Stone Paper Scissor Game Best Release For Now.
 
 THIS IS COPYRIGHTED. YOU CAN ONLY USE THIS FOR SEEING 
